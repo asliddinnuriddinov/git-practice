@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>first</h1>
       <button>first</button>
+      <h2>First branch</h2>
     </>
   )
 }
